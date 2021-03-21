@@ -1,0 +1,13 @@
+# mysql connect configuration
+mysql:
+  username: root
+  password: 'Aa@6447985'
+  path: '127.0.0.1:3306'
+  db-name: 'qmPlus'
+  log-mode: false
+
+# redis configuration
+redis:
+  addr: '127.0.0.1:6379'
+  password: ''
+  db: 0
